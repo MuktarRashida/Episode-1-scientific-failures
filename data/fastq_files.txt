@@ -1,0 +1,4 @@
+S001_R1.fastq.gz
+S002_R1.fastq.gz
+S003_R1.fastq.gz
+S17_R1.fastq.gz
